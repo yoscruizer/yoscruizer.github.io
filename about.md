@@ -4,19 +4,9 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Perkenalkan Nama saya Yosep Alfatah , saya lahir pada tanggal 31 Juli 2001 , Saya mulai mengenal dunia programing sejak tahun 2016 saat saya duduk di bangku SMP , Selepas SMP saya melanjutkan sekolah di SMK Negeri 1 Banjar dan memilih jurusan Rekayasa Perangkat Lunak , Menurut saya dengan belajar programing saya dapat meningkatkan logika dalam berfikir</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Cita Cita saya adalah bekerja di starup Internasional seperti GOOGLE , Amazon , Apple dan lainnya.</p>
 
 <h2>Skills</h2>
 
@@ -32,15 +22,15 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>Git</li>
 	<li>PHP</li>
 	<li>Python</li>
+	<li>Java</li>
 	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Debian</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/">Aplikasi Penjualan dengan Java</a></li>
+	<li><a href="https://github.com/">Aplikasi Restoran Dengan PHP </a></li>
+	<li><a href="https://github.com/">Meranang Web Sekolah</a></li>
 </ul>
